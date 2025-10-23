@@ -5,4 +5,7 @@
 ## standby server setup(manual)
 ## 복구 적용 프로세스(Apply Process)
 ## Redo 로그 전송 테스트
-## Manual Switchover
+## Switchover
+#### Switchover(Manual)
+#### Switchover(DGMGRL)
+## Protection Mode
