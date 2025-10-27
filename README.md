@@ -9,3 +9,4 @@
 #### Switchover(Manual)
 #### Switchover(DGMGRL)
 ## Protection Mode
+## Failover
