@@ -10,3 +10,10 @@
 #### Switchover(DGMGRL)
 ## Protection Mode
 ## Failover
+## Flashback Database
+## Read-Only Standby & Active Data Guard
+## Snapshot Standby  
+##### physical vs. logical standby
+
+###### 참고자료 
+###### https://oracle-base.com/articles/11g/data-guard-setup-11gr2#read_only_active_data_guard
