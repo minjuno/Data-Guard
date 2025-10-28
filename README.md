@@ -13,7 +13,9 @@
 ## Flashback Database
 ## Read-Only Standby & Active Data Guard
 ## Snapshot Standby  
-##### physical vs. logical standby
+### physical vs. logical standby
 
-###### 참고자료 
+#### 참고자료 
 ###### https://oracle-base.com/articles/11g/data-guard-setup-11gr2#read_only_active_data_guard
+###### https://oracle-base.com/articles/19c/data-guard-setup-using-broker-19c
+###### https://docs.oracle.com/en/database/oracle/oracle-database/19/sbydb/introduction-to-oracle-data-guard-concepts.html
