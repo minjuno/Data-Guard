@@ -1,6 +1,7 @@
 # Data-Guard
 오라클 Data Guard 구성 프로젝트입니다.
-잘못되었거나 오류 있으면 issue에 올려 주세요.
+잘못되었거나 오류 있으면 아래 이메일에 보내주세요
+ijunho0924@naver.com
 
 ## 구성 계획
 ## primary db 생성
