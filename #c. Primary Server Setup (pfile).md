@@ -133,7 +133,7 @@ SBDB =
   )
 ```
 
-### standby controlfile, pfile 생성
+### standby pfile 생성
 
 **standby db의 파라미터 파일을 생성한다**
 
