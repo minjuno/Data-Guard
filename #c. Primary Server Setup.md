@@ -138,7 +138,7 @@ SBDB =
 **standby db의 파라미터 파일을 생성한다**
 
 ```bash
-cd $ORACLE_HOME/dbs
+cd /tmp
 vi initSBDB.ora
 
 ------------------------------------------------------------------------
