@@ -135,7 +135,9 @@ SBDB =
 
 ### standby pfile 생성
 
-**standby db의 파라미터 파일을 생성한다**
+**standby db manual setup을 위한 파라미터 파일을 생성한다**
+
+duplicate 방식에서는 생성할 필요 없다.
 
 ```bash
 cd /tmp
